@@ -1,4 +1,4 @@
-# Al-Amanah: An Islamic RAG Chatbot
+# Al-Amanah: A RAG Chatbot
 
 Al-Amanah is an AI-powered chatbot that provides answers to questions about Islam, based on the Quran and Hadith. It leverages Retrieval-Augmented Generation (RAG) techniques to generate contextually accurate answers, using both the translated Quran and two Hadith collections as its knowledge base. Built using Streamlit, the chatbot offers an intuitive interface and maintains chat history to improve the flow and coherence of each conversation.
 
